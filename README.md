@@ -3,9 +3,6 @@ Robust variational autoencoders (RVAE)
 
 RVAE proposes a variational lower bound that leads to a robust VAE model. It has the same computational complexity as the standard VAE and contains a single automatically-adjusted tuning parameter to control the degree of robustness.
 
-# Prerequisities
-Python 3
-Pytorch
 
 # Citation
 
