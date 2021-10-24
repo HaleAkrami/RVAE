@@ -1,0 +1,11 @@
+{
+    "cat_cols_names": [
+        "EDUCATION"
+    ],
+    "dataset_type": "mixed",
+    "is_target_feat_cat": true,
+    "num_cols_names": [],
+    "target_feat_name": [
+        "default payment next month"
+    ]
+}
